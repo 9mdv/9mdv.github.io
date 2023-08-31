@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: https://g11v8a.github.io/sitemap.xml
+Sitemap: https://9mdv.github.io/sitemap.xml
